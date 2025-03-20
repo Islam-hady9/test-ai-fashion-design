@@ -1,0 +1,17 @@
+🎨 NFT T-Shirt Feature Extraction Report 🎨
+NFT Image: ./nft_reports\NFT48\NFT48.png
+---------------------------------------------------
+
+Primary Colors:
+  - HEX: #e4e2c6 | RGB: (228, 226, 198)
+  - HEX: #4c4c56 | RGB: (76, 76, 86)
+  - HEX: #8d8c85 | RGB: (141, 140, 133)
+
+Secondary Colors:
+  - HEX: #8d8c85 | RGB: (141, 140, 133)
+  - HEX: #4c4c56 | RGB: (76, 76, 86)
+
+Number of Detected Shapes: 227
+Detected NFT Theme: Abstract Art
+---------------------------------------------------
+✅ Report Generation Completed!

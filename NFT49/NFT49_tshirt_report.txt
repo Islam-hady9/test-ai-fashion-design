@@ -1,0 +1,17 @@
+🎨 NFT T-Shirt Feature Extraction Report 🎨
+NFT Image: ./nft_reports\NFT49\NFT49.png
+---------------------------------------------------
+
+Primary Colors:
+  - HEX: #91988c | RGB: (145, 152, 140)
+  - HEX: #121f43 | RGB: (18, 31, 67)
+  - HEX: #e3f2ea | RGB: (227, 242, 234)
+
+Secondary Colors:
+  - HEX: #e3f2ea | RGB: (227, 242, 234)
+  - HEX: #121f43 | RGB: (18, 31, 67)
+
+Number of Detected Shapes: 312
+Detected NFT Theme: Cultural/Heritage Art
+---------------------------------------------------
+✅ Report Generation Completed!

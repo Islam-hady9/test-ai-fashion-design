@@ -1,0 +1,49 @@
+{
+    "NFT Image": "./nft_reports\\NFT1\\NFT1.png",
+    "Primary Colors": [
+        {
+            "HEX": "#b29db2",
+            "RGB": [
+                178,
+                157,
+                178
+            ]
+        },
+        {
+            "HEX": "#0d0c13",
+            "RGB": [
+                13,
+                12,
+                19
+            ]
+        },
+        {
+            "HEX": "#50526c",
+            "RGB": [
+                80,
+                82,
+                108
+            ]
+        }
+    ],
+    "Secondary Colors": [
+        {
+            "HEX": "#51526c",
+            "RGB": [
+                81,
+                82,
+                108
+            ]
+        },
+        {
+            "HEX": "#b29eb2",
+            "RGB": [
+                178,
+                158,
+                178
+            ]
+        }
+    ],
+    "Number of Detected Shapes": 1087,
+    "Detected NFT Theme": "Abstract Art"
+}
